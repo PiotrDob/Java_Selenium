@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Component Tests" duration-ms="1897" started-at="2019-04-25T13:01:50Z" finished-at="2019-04-25T13:01:52Z">
+    <groups>
+    </groups>
+    <test name="saucedemo_test" duration-ms="1897" started-at="2019-04-25T13:01:50Z" finished-at="2019-04-25T13:01:52Z">
+      <class name="saucedemo_test">
+        <test-method status="PASS" signature="setUpBeforeTestClass()[pri:0, instance:saucedemo_test@3ac3fd8b]" name="setUpBeforeTestClass" is-config="true" duration-ms="4444" started-at="2019-04-25T15:01:46Z" finished-at="2019-04-25T15:01:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestClass -->
+        <test-method status="PASS" signature="checkUserLoginList()[pri:1, instance:saucedemo_test@3ac3fd8b]" name="checkUserLoginList" duration-ms="286" started-at="2019-04-25T15:01:50Z" finished-at="2019-04-25T15:01:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserLoginList -->
+        <test-method status="PASS" signature="login()[pri:2, instance:saucedemo_test@3ac3fd8b]" name="login" duration-ms="1609" started-at="2019-04-25T15:01:51Z" finished-at="2019-04-25T15:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- saucedemo_test -->
+    </test> <!-- saucedemo_test -->
+  </suite> <!-- Component Tests -->
+</testng-results>

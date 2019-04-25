@@ -2,23 +2,27 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Component Tests" duration-ms="1897" started-at="2019-04-25T13:01:50Z" finished-at="2019-04-25T13:01:52Z">
+  <suite name="Component Tests" duration-ms="7251" started-at="2019-04-25T13:30:48Z" finished-at="2019-04-25T13:30:55Z">
     <groups>
     </groups>
-    <test name="saucedemo_test" duration-ms="1897" started-at="2019-04-25T13:01:50Z" finished-at="2019-04-25T13:01:52Z">
+    <test name="saucedemo_test" duration-ms="7251" started-at="2019-04-25T13:30:48Z" finished-at="2019-04-25T13:30:55Z">
       <class name="saucedemo_test">
-        <test-method status="PASS" signature="setUpBeforeTestClass()[pri:0, instance:saucedemo_test@3ac3fd8b]" name="setUpBeforeTestClass" is-config="true" duration-ms="4444" started-at="2019-04-25T15:01:46Z" finished-at="2019-04-25T15:01:50Z">
+        <test-method status="PASS" signature="setUpBeforeTestClass()[pri:0, instance:saucedemo_test@5594a1b5]" name="setUpBeforeTestClass" is-config="true" duration-ms="4359" started-at="2019-04-25T15:30:44Z" finished-at="2019-04-25T15:30:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeTestClass -->
-        <test-method status="PASS" signature="checkUserLoginList()[pri:1, instance:saucedemo_test@3ac3fd8b]" name="checkUserLoginList" duration-ms="286" started-at="2019-04-25T15:01:50Z" finished-at="2019-04-25T15:01:51Z">
+        <test-method status="PASS" signature="checkUserLoginList()[pri:1, instance:saucedemo_test@5594a1b5]" name="checkUserLoginList" duration-ms="277" started-at="2019-04-25T15:30:48Z" finished-at="2019-04-25T15:30:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkUserLoginList -->
-        <test-method status="PASS" signature="login()[pri:2, instance:saucedemo_test@3ac3fd8b]" name="login" duration-ms="1609" started-at="2019-04-25T15:01:51Z" finished-at="2019-04-25T15:01:52Z">
+        <test-method status="PASS" signature="login()[pri:2, instance:saucedemo_test@5594a1b5]" name="login" duration-ms="6971" started-at="2019-04-25T15:30:48Z" finished-at="2019-04-25T15:30:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeWebDriver()[pri:0, instance:saucedemo_test@5594a1b5]" name="closeWebDriver" is-config="true" duration-ms="79" started-at="2019-04-25T15:30:55Z" finished-at="2019-04-25T15:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebDriver -->
       </class> <!-- saucedemo_test -->
     </test> <!-- saucedemo_test -->
   </suite> <!-- Component Tests -->

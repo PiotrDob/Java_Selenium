@@ -25,14 +25,16 @@ public class initial {
         if (urlAddress == null || urlAddress.equals(".. pick element ...") || urlAddress.equals("$urlAddress")) {
             urlAddress = "saucedemo => https://www.saucedemo.com";
         }
-        System.out.println(" Test started on url: " + urlAddress);
+        System.out.println("Test started on url: " + urlAddress);
         if (globalWaitTime == null || globalWaitTime.equals(".. pick element ...") || globalWaitTime.equals("$globalWaitTime")) {
             globalWaitTime = "20";
         }
+        System.out.println("with globalWaitTime: " + globalWaitTime + "s");
         if (user == null || user.equals(".. pick element ...") || user.equals("$user")) {
             user = "standard_user";
         }
-        System.out.println("with globalWaitTime: " + globalWaitTime + "s");
+        System.out.println("Picked user: " + user +"\n");
+
         File file = new File("C:\\Users\\Admin\\IdeaProjects\\seleniumautomation\\addins\\chromedriver.exe");
         System.setProperty("webdriver.chrome.driver", file.getAbsolutePath());
         ChromeOptions options = new ChromeOptions();

@@ -20,7 +20,7 @@ public class saucedemo_test extends initial{
         public void closeWebDriver(){
             driver.close();
         }
-        
+
         @Test(priority = 1)
         public void checkUserLoginList(){
             System.out.println("**** Starting test: checkUserLoginList ****");

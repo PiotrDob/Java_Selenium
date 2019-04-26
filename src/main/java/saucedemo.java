@@ -35,16 +35,20 @@ public class saucedemo extends initial {
 
     public String checkUserLoginList(){
         String result = "";
+        boolean errorFound = false;
         try {
-            gWait.until(ExpectedConditions.textToBePresentInElementLocated(By.xpath("//div[contains(@class,'login_credentials')]"), "standard_user"));
-            gWait.until(ExpectedConditions.textToBePresentInElementLocated(By.xpath("//div[contains(@class,'login_credentials')]"), "locked_out_user"));
-            gWait.until(ExpectedConditions.textToBePresentInElementLocated(By.xpath("//div[contains(@class,'login_credentials')]"), "problem_user"));
-            gWait.until(ExpectedConditions.textToBePresentInElementLocated(By.xpath("//div[contains(@class,'login_credentials')]"), "performance_glitch_user"));
+            String[] logins = {"standard_user", "locked_out_user", "problem_user", "performance_glitch_user"};
+            for(String login:logins){
+                gWait.until(ExpectedConditions.textToBePresentInElementLocated(By.xpath("//div[contains(@class,'login_credentials')]"), login));
+            }
         }catch (org.openqa.selenium.TimeoutException e) {
             System.out.println(e.toString());
             result = "Not all elements are found.";
+            errorFound = true;
         }
-        result = "All elements are visible.";
+        if(!errorFound){
+            result = "All elements are visible.";
+        }
 
         System.out.println("**** Result: " + result + " ****");
         return result;

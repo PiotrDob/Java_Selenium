@@ -28,12 +28,34 @@ public class saucedemo_test extends initial{
         }
 
         @Test(priority = 2)
-        public void login(){
+        public void logUser(){
             System.out.println("**** Starting test: logUser ****");
             Assert.assertEquals(saucedemo.logUser(),"Successfully logged in.");
         }
 
+        @Test(priority = 3)
+        public void checkVisibilityOfImages(){
+            System.out.println("**** Starting test: checkVisibilityOfImages ****");
+            Assert.assertEquals(saucedemo.checkVisibilityOfImages(),"All images are visible.");
+        }
 
+        @Test(priority = 4)
+        public void checkAddToCart(){
+            System.out.println("**** Starting test: checkAddToCart ****");
+            Assert.assertEquals(saucedemo.checkAddToCart(),"All visible products added successfully.");
+        }
 
+        @Test(priority = 5)
+        public void checkRemoveFromCart(){
+            System.out.println("**** Starting test: checkRemoveFromCart ****");
+            Assert.assertEquals(saucedemo.checkRemoveFromCart(),"All visible products removed successfully.");
+        }
+
+        @Test(priority = 6)
+        public void orderProducts(){
+            System.out.println("**** Starting test: orderProducts ****");
+            Assert.assertEquals(saucedemo.checkAddToCart(),"All visible products added successfully.");
+            Assert.assertEquals(saucedemo.orderProducts(),"Order complete successfully.");
+        }
 
 }

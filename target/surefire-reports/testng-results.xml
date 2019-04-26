@@ -1,25 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Component Tests" duration-ms="7251" started-at="2019-04-25T13:30:48Z" finished-at="2019-04-25T13:30:55Z">
+  <suite name="Component Tests" duration-ms="37091" started-at="2019-04-26T11:49:48Z" finished-at="2019-04-26T11:50:25Z">
     <groups>
     </groups>
-    <test name="saucedemo_test" duration-ms="7251" started-at="2019-04-25T13:30:48Z" finished-at="2019-04-25T13:30:55Z">
+    <test name="saucedemo_test" duration-ms="37091" started-at="2019-04-26T11:49:48Z" finished-at="2019-04-26T11:50:25Z">
       <class name="saucedemo_test">
-        <test-method status="PASS" signature="setUpBeforeTestClass()[pri:0, instance:saucedemo_test@5594a1b5]" name="setUpBeforeTestClass" is-config="true" duration-ms="4359" started-at="2019-04-25T15:30:44Z" finished-at="2019-04-25T15:30:48Z">
+        <test-method status="PASS" signature="setUpBeforeTestClass()[pri:0, instance:saucedemo_test@5594a1b5]" name="setUpBeforeTestClass" is-config="true" duration-ms="5445" started-at="2019-04-26T13:49:42Z" finished-at="2019-04-26T13:49:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeTestClass -->
-        <test-method status="PASS" signature="checkUserLoginList()[pri:1, instance:saucedemo_test@5594a1b5]" name="checkUserLoginList" duration-ms="277" started-at="2019-04-25T15:30:48Z" finished-at="2019-04-25T15:30:48Z">
+        <test-method status="PASS" signature="checkUserLoginList()[pri:1, instance:saucedemo_test@5594a1b5]" name="checkUserLoginList" duration-ms="216" started-at="2019-04-26T13:49:48Z" finished-at="2019-04-26T13:49:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkUserLoginList -->
-        <test-method status="PASS" signature="login()[pri:2, instance:saucedemo_test@5594a1b5]" name="login" duration-ms="6971" started-at="2019-04-25T15:30:48Z" finished-at="2019-04-25T15:30:55Z">
+        <test-method status="PASS" signature="logUser()[pri:2, instance:saucedemo_test@5594a1b5]" name="logUser" duration-ms="7077" started-at="2019-04-26T13:49:48Z" finished-at="2019-04-26T13:49:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method status="PASS" signature="closeWebDriver()[pri:0, instance:saucedemo_test@5594a1b5]" name="closeWebDriver" is-config="true" duration-ms="79" started-at="2019-04-25T15:30:55Z" finished-at="2019-04-25T15:30:55Z">
+        </test-method> <!-- logUser -->
+        <test-method status="PASS" signature="checkVisibilityOfImages()[pri:3, instance:saucedemo_test@5594a1b5]" name="checkVisibilityOfImages" duration-ms="905" started-at="2019-04-26T13:49:55Z" finished-at="2019-04-26T13:49:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVisibilityOfImages -->
+        <test-method status="PASS" signature="checkAddToCart()[pri:4, instance:saucedemo_test@5594a1b5]" name="checkAddToCart" duration-ms="5744" started-at="2019-04-26T13:49:56Z" finished-at="2019-04-26T13:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCart -->
+        <test-method status="PASS" signature="checkRemoveFromCart()[pri:5, instance:saucedemo_test@5594a1b5]" name="checkRemoveFromCart" duration-ms="10530" started-at="2019-04-26T13:50:01Z" finished-at="2019-04-26T13:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRemoveFromCart -->
+        <test-method status="PASS" signature="orderProducts()[pri:6, instance:saucedemo_test@5594a1b5]" name="orderProducts" duration-ms="12604" started-at="2019-04-26T13:50:12Z" finished-at="2019-04-26T13:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderProducts -->
+        <test-method status="PASS" signature="closeWebDriver()[pri:0, instance:saucedemo_test@5594a1b5]" name="closeWebDriver" is-config="true" duration-ms="74" started-at="2019-04-26T13:50:25Z" finished-at="2019-04-26T13:50:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeWebDriver -->

@@ -1,8 +1,6 @@
 import com.sun.glass.ui.View;
+import org.openqa.selenium.*;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.ExpectedCondition;
@@ -20,6 +18,7 @@ public class initial {
     protected static String urlAddress = System.getProperty("urlAddress");
     protected static String globalWaitTime = System.getProperty("globalWaitTime");
     public static String user = System.getProperty("user");
+    public static JavascriptExecutor js;
 
     public static void invokeBrowser() {
         if (urlAddress == null || urlAddress.equals(".. pick element ...") || urlAddress.equals("$urlAddress")) {
@@ -45,6 +44,7 @@ public class initial {
         driver.get(url[2]);
         driver.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS) ;
         gWait = new WebDriverWait(driver, Integer.parseInt(globalWaitTime));
+        js = (JavascriptExecutor) driver;
     }
 }
 

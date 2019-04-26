@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/saucedemo.java" line="106" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="29b149b5-8040-4d41-a4c1-8024506c745c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/globalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/globalMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/initial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/initial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/saucedemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/saucedemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/saucedemo_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/saucedemo_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/globalMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/globalMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/initial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/initial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/saucedemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/saucedemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/selenium-automation-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/selenium-automation-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Component Tests/saucedemo_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Component Tests/saucedemo_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Component Tests/saucedemo_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Component Tests/saucedemo_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Component Tests/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Component Tests/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-saucedemo_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-saucedemo_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Component Tests/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Component Tests/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Component Tests/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Component Tests/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Component Tests/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Component Tests/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Component Tests/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Component Tests/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/saucedemo_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/saucedemo_test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+            <state relative-caret-position="669">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -31,8 +60,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/saucedemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="-1395">
+              <caret line="131" selection-start-line="131" selection-end-line="131" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/Invoker.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="510" selection-start-line="510" selection-end-line="510" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/globalMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/initial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+            <state relative-caret-position="541">
+              <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/saucedemo_test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="525">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,6 +130,11 @@
       <find>compiler</find>
       <find>compiler-</find>
       <find>org.apache.maven.plugins</find>
+      <find>exceptio</find>
+      <find>checkoutPostalCode</find>
+      <find>aaa</find>
+      <find>evalua</find>
+      <find>eval</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,8 +156,9 @@
       <list>
         <option value="$PROJECT_DIR$/tests" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/initial.java" />
         <option value="$PROJECT_DIR$/src/test/java/saucedemo_test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/initial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/globalMethods.java" />
         <option value="$PROJECT_DIR$/src/main/java/saucedemo.java" />
       </list>
     </option>
@@ -142,14 +198,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="_Java_Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_Java_Selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_Java_Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_Java_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="addins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_Java_Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_Java_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_Java_Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_Java_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_Java_Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_Java_Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -167,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.tests">
+  <component name="RunManager" selected="TestNG.saucedemo_test.orderProducts">
     <configuration default="true" type="TestNG">
       <option name="SUITE_NAME" value="$PROJECT_DIR$/tests" />
       <option name="PACKAGE_NAME" value="" />
@@ -184,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="saucedemo_test.login" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumautomation" />
+    <configuration name="saucedemo_test.orderProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-automation" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/tests" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="saucedemo_test" />
-      <option name="METHOD_NAME" value="login" />
+      <option name="METHOD_NAME" value="orderProducts" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="PARAMETERS" value="" />
@@ -202,7 +291,7 @@
       </method>
     </configuration>
     <configuration name="tests" type="TestNG">
-      <module name="seleniumautomation" />
+      <module name="selenium-automation" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/tests" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -220,11 +309,11 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.tests" />
-      <item itemvalue="TestNG.saucedemo_test.login" />
+      <item itemvalue="TestNG.saucedemo_test.orderProducts" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.saucedemo_test.login" />
+        <item itemvalue="TestNG.saucedemo_test.orderProducts" />
       </list>
     </recent_temporary>
   </component>
@@ -242,42 +331,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="tests - 2019.04.25 at 14h 14m 20s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 28m 06s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.25 at 14h 14m 55s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 31m 08s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.25 at 14h 44m 35s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 32m 14s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.25 at 14h 46m 08s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 36m 09s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.25 at 14h 49m 03s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 37m 53s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.25 at 14h 50m 23s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 39m 50s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.25 at 14h 51m 26s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 42m 16s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.26 at 09h 03m 30s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 44m 56s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.26 at 09h 05m 37s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 46m 11s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="tests - 2019.04.26 at 09h 08m 11s.xml">
-      <configuration name="tests" configurationId="TestNG" />
+    <history-entry file="saucedemo_test_orderProducts - 2019.04.26 at 13h 46m 56s.xml">
+      <configuration name="saucedemo_test.orderProducts" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1164" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1517572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15335463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,6 +394,18 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/saucedemo_test.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -324,13 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="33" column="16" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/globalMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -362,13 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="436" selection-start-line="436" selection-end-line="436" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/MethodInvocationHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -381,15 +468,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        <state relative-caret-position="669">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_211/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="623" column="37" selection-start-line="623" selection-start-column="16" selection-end-line="623" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/initial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        <state relative-caret-position="541">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#1316#1317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="510" selection-start-line="510" selection-end-line="510" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/globalMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -398,8 +519,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/saucedemo_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="525">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -408,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/saucedemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="-1395">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
